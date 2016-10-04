@@ -9,6 +9,7 @@ gem 'rails_autolink'
 gem 'mongoid', '4.0.1'
 gem 'moped', '2.0.1'
 gem 'bson'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
